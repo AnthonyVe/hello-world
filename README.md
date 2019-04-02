@@ -3,4 +3,4 @@ Just another repositery
 
 Hello World!
 
-Anthony here, I like maths, veideo games and coding
+Anthony here, I like maths, video games and coding
